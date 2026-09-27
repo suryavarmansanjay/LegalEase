@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+python-dotenv
+google-genai
+requests
+python-docx
+reportlab
+pydantic
